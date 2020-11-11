@@ -1,7 +1,9 @@
 # Facial Expression recognition
 
-Data is from Kaggle;
+Data is from Kaggle:
+
 https://www.kaggle.com/ashishpatel26/facial-expression-recognitionferchallenge/notebooks
+
 With thanks to:
 ```
 @MISC{Goodfeli-et-al-2013,
