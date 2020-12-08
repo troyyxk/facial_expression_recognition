@@ -28,3 +28,8 @@ edge can be gained from machine learning competitions.
 http://deeplearning.net/icml2013-workshop-competition}
 }
 ```
+
+bigger_data come from the following git repository:
+```
+https://github.com/muxspace/facial_expressions
+```
