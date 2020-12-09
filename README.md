@@ -31,5 +31,7 @@ http://deeplearning.net/icml2013-workshop-competition}
 
 bigger_data come from the following git repository:
 ```
+https://www.kaggle.com/c/emotion-detection-from-facial-expressions/data
+
 https://github.com/muxspace/facial_expressions
 ```
